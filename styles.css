@@ -36,9 +36,11 @@ html{
     font-size: 0.7em;
   }
 
+
   h1 .flex span:last-of-type{
     font-size: 1.2em;
   }
+
 
   section{
     max-width: 40rem;
@@ -59,6 +61,7 @@ html{
   }
 
   /* The selector target any span element that has a class attribute set, regardless of the attribute's value.*/
+
   #years span[class]{
     font-weight: bold;
     width: 4.5rem;
