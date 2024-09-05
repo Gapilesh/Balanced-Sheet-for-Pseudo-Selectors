@@ -125,3 +125,7 @@ html{
   tr.total:hover{
     background-color:#99c9ff;
   }
+
+  td[class="current"]{
+    font-style: italic;
+  }
